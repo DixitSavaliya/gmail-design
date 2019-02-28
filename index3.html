@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>work-2</title>
+	<link rel="stylesheet" type="text/css" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"> 
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body style="background-color: #748d90de;">
+	<h1 style="margin: 86px;">Gmail</h1>
+	<ul class="stepper" style="background-color: #3f51b5;">
+		<li class="stepper__item complete" style="border: 2px solid black;"><a href="index.html" style="text-decoration: none; color: #1a73e8;">Step 1</a></li>
+		<li class="stepper__item current" style="border: 2px solid black;"><a href="index1.html" style="text-decoration: none; color: #1a73e8;">Step 2</a></li>
+		<li class="stepper__item" style="border: 2px solid black;"><a href="index2.html" style="text-decoration: none; color: #1a73e8;">Step 3</a></li>
+		
+	</ul>
+	<script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script type="text/javascript">
+		$('.wizard li').click(function() {
+			$(this).prevAll().addClass("completed");
+			$(this).nextAll().removeClass("completed")
+
+		});
+	</script>
+</body>
+</html>
