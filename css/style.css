@@ -1,0 +1,161 @@
+.logo{
+	width: 74px;
+}
+.sign{
+	font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 1.3333;
+}
+.Text-2{
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: .1px;
+	line-height: 1.5;
+	text-align: center;
+	color: #202124;
+	font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+	margin-bottom: 20px;
+}
+
+
+.btn{
+	background-color:#1a73e8 !important;
+	height: 36px !important;
+	width: 88px !important; 
+	color: white !important;
+	text-transform: none;
+	font-weight: 500 !important;
+	margin-left: 280px;
+}
+.email{
+	width: 366px;
+	margin-bottom: 20px;
+	margin-top: 25px;
+}
+.pass{
+	width:366px;
+	margin-bottom: 20px;
+}
+.div{
+	padding: 48px 40px 36px;
+	border: 1px solid #D3D3D3;
+	border-radius: 10px;
+	height: auto;
+	width: 448px;
+	text-align: center;
+	left:0;
+	right: 0;
+	top:0;
+	bottom:0;
+	margin:0 auto;
+	/*background-color: #F0FFFF;	*/
+	margin-top: 40px;
+}
+.forgot{
+	border-radius: 4px;
+	color: #1a73e8;
+	display: inline-block;
+	font-weight: 500;
+	letter-spacing: .25px;
+	background-color: transparent;
+	border: 0;
+	cursor: pointer;
+	outline: 0;
+	padding: 0;
+	text-align: left;
+	text-decoration: none;
+	float:left;
+	margin-bottom: 10px;
+	margin-left: 47px;
+	width: 100%;
+}
+body{
+	direction: ltr;
+	font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.4286;
+	margin:0;
+	padding:0; 
+	/*background-color: #F0FFFF;	*/
+}
+#account{
+	margin-top: 51px;
+}
+}
+.logo{
+	width: 74px;
+}
+.card{
+	padding: 48px 40px 36px;
+	border: 1px solid #D3D3D3;
+	border-radius: 10px;
+	height: 800px;
+	width: 754px;
+	
+	left:0;
+	right: 0;
+	top:0;
+	bottom:0;
+	margin:0 auto;
+	margin-top: 40px;
+	/*background-color: #F0FFFF;*/
+}
+.mdc-text-field{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.svg{
+
+	margin-top: 100px;
+}
+.privacy{
+
+	
+	font-size: 15px;
+	color: #7b7b7b;
+}
+.forgot {
+	border-radius: 4px;
+	color: #1a73e8;
+	display: inline-block;
+	font-weight: 500;
+	letter-spacing: .25px;
+	background-color: transparent;
+	border: 0;
+	cursor: pointer;
+	outline: 0;
+	padding: 0;
+	text-align: left;
+	text-decoration: none;
+	float: left;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 100%;
+	margin-top: 24px;
+}
+.btn{
+	background-color:#1a73e8 !important;
+	height: 36px !important;
+	width: 88px !important; 
+	color: white !important;
+	text-transform: none;
+	font-weight: 500 !important;
+	margin-left: 280px;
+}
+.left{
+
+	margin-top: -12px;
+}
+.shadow{
+
+	text-shadow: 1px 1px;
+}
+.svg1{
+
+	margin-top: 214px;
+}
+.info{
+
+	margin-top: 90px;
+}
